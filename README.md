@@ -44,7 +44,7 @@
 ###
 
 <div align="center">
-  <a href="gnatiukdanya@gmail.com" target="_blank">
+  <a href="mailto:gnatiukdanya@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="https://t.me/rayrable01" target="_blank">
@@ -54,13 +54,17 @@
 
 ###
 
-<br clear="both">
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=rayrable01&theme=radical&no-frame=true&no-bg=true&margin-w=4">
+</p>
+
+###
 
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Flowseal/Flowseal/refs/heads/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Flowseal/Flowseal/refs/heads/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/Flowseal/Flowseal/refs/heads/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/rayrable01/rayrable01/refs/heads/output/github-contribution-grid-snake.svg" />
   </picture>
 </p>
 
